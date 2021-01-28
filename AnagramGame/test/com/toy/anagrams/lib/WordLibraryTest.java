@@ -38,7 +38,7 @@ public class WordLibraryTest extends TestCase {
         wordLibrary = WordLibrary.getDefault();
     }
     
-    
+    // Hola món !!!!
 
     /**
      * Test of {@link WordLibrary#isCorrect}.

@@ -72,6 +72,8 @@ public class Anagrams extends JFrame {
     public Anagrams() {
         wordLibrary = WordLibrary.getDefault();
         
+        System.out.println("Reparacio del bug #234234 que feia petar el login");
+        
         initComponents();
         getRootPane().setDefaultButton(guessButton);
         scrambledWord.setText(wordLibrary.getScrambledWord(wordIdx));

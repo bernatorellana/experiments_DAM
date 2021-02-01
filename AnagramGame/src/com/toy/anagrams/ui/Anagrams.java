@@ -63,6 +63,8 @@ public class Anagrams extends JFrame {
                 new Anagrams().setVisible(true);
             }
         });
+        
+        System.out.println("Millores per la versió 2.0");
     }
 
     private int wordIdx = 0;

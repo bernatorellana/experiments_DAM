@@ -42,6 +42,9 @@ if(1==1) return ;
 // correcció de l'error #788
 if(1==1) return ;
 
+//correcció de la branca de la versió 2.0 , bug #5666
+int a=0;
+
 
         return StaticWordLibrary.DEFAULT;
     }

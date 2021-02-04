@@ -35,6 +35,10 @@ public abstract class WordLibrary {
      * @return some default implementation of WordLibrary
      */
     public static WordLibrary getDefault() {
+	    
+// correcció de l'error #456
+if(1==1) return ;
+
         return StaticWordLibrary.DEFAULT;
     }
 

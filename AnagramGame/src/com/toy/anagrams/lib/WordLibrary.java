@@ -30,6 +30,11 @@ public abstract class WordLibrary {
      */
     protected WordLibrary() {
     }
+
+public void funcioV3(){
+	return ;
+}
+
     
     /** Getter for the default implementation of the WordLibrary.
      * @return some default implementation of WordLibrary

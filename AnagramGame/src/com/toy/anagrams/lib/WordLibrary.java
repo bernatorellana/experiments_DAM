@@ -35,6 +35,10 @@ public void funcioV3(){
 	return ;
 }
 
+public void funcioV3AdvancedEdition(){
+	return ;
+}
+
     
     /** Getter for the default implementation of the WordLibrary.
      * @return some default implementation of WordLibrary

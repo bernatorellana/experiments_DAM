@@ -39,6 +39,10 @@ public abstract class WordLibrary {
 // correcció de l'error #456
 if(1==1) return ;
 
+// correcció de l'error #788
+if(1==1) return ;
+
+
         return StaticWordLibrary.DEFAULT;
     }
 

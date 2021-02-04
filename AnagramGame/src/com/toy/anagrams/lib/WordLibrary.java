@@ -39,6 +39,10 @@ public void funcioV3AdvancedEdition(){
 	return ;
 }
 
+public void canviSimultani(){
+	
+}
+
     
     /** Getter for the default implementation of the WordLibrary.
      * @return some default implementation of WordLibrary

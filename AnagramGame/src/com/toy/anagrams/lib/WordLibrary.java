@@ -32,6 +32,7 @@ public abstract class WordLibrary {
     }
 
 public void funcioV3(){
+        if(a==0) a++;
 	return ;
 }
 

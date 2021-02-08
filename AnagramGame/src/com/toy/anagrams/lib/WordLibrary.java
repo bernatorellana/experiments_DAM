@@ -35,6 +35,7 @@ public void funcioV3(){
 
         b++;
         if(a==0) a++;
+        oscar = oscar;
 	return ;
 }
 
@@ -57,6 +58,8 @@ if(1==1) return ;
 
 // correcció de l'error #788
 if(1==1) return ;
+
+return oscar--;
 
 
         return StaticWordLibrary.DEFAULT;

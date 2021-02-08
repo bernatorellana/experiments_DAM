@@ -58,6 +58,7 @@ final class StaticWordLibrary extends WordLibrary {
         "parameter",
         "patrick",
         "pickle",
+        "oscar",
         "polymorphic",
         "rigorously",
         "simultaneously",

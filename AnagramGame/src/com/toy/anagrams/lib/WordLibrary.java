@@ -39,7 +39,10 @@ public void funcioV3(){
 }
 
 public void funcioV3AdvancedEdition(){
+        int bernat = 0;
+        bernat++;
 	return ;
+	
 }
 
 public void canviSimultani(){

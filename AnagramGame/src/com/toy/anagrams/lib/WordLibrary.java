@@ -46,7 +46,7 @@ public void funcioV3AdvancedEdition(){
 }
 
 public void canviSimultani(){
-	
+	char bernatMesCanvis='a';
 }
 
     
